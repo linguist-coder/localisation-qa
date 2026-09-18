@@ -31,5 +31,14 @@ I am looking for real before/after pairs from translation round trips, to find o
 the tool catches anything your current check does not - or flags things that are fine.
 Either answer is useful: **hi@linguist-coder.com**.
 
+The call for testers, with more detail on what is checked and what is not:
+[Seeking Testers: Comparing IDML Files Before and After Translation](https://www.linguist-coder.com/2026/09/seeking-testers-comparing-idml-files.html).
+
+## Background
+
+- [Comparing InDesign Files After Translation: What to Check](https://www.linguist-coder.com/2026/09/comparing-indesign-files-after.html) - what a structural review covers, and how to do it by hand on the IDML
+- [Why IDML Formatting Can Produce Translation Tags, and What to Check in InDesign](https://www.linguist-coder.com/2026/09/why-idml-formatting-can-produce.html) - where the tags in a CAT tool come from
+- [Scaling Multilingual DTP by Automating Trados-Ready IDML Export from InDesign Books](https://www.linguist-coder.com/2026/01/scaling-multilingual-dtp-by-automating.html) - preparing the IDML before it goes out
+
 By the author of [Overset Fixer Pro](https://aescripts.com/overset-fixer-pro/) and
 [LinkSafe](https://aescripts.com/linksafe/) for InDesign.
